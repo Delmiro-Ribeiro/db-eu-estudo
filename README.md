@@ -12,7 +12,7 @@ Banco de dados da aplicação de gerenciamento de estudos que atende pelo nome d
 - Prioridades de tarefas
 - Recomendação de conteudo
 - Fontes de pesquisas
-- ]Rotinas de estudos.
+- Rotinas de estudos.
 
 #Technologias:
 ##Front-end:
